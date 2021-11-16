@@ -1,3 +1,7 @@
+---
+Updating everything and moving to ERC20 or ERC777
+---
+
 ![nuxt-box](https://storage.googleapis.com/paperchain-assets/nuxt-box-banner.png)
 
 # Nuxt-box
